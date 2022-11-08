@@ -5,6 +5,11 @@ body {
 	background: #2c3e50
 }
 
+.message{
+	color: #fff;
+	text-align: center;
+}
+
 .box {
 	width: 1000px;
 	position: absolute;
